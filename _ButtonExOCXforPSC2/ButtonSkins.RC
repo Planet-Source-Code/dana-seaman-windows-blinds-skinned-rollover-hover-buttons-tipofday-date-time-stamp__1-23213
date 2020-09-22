@@ -1,0 +1,77 @@
+//////////////////////////
+//
+//Icons
+//
+//////////////////////////
+
+//16 ICON MOVEABLE PURE "FLGGERM.ICO"
+//17 ICON MOVEABLE PURE "FLGUSA02.ICO"
+//18 ICON MOVEABLE PURE "FLGSPAIN.ICO"
+//19 ICON MOVEABLE PURE "FLGFRAN.ICO"
+//20 ICON MOVEABLE PURE "FLGITALY.ICO"
+//21 ICON MOVEABLE PURE "FLGBRAZL.ICO"
+
+
+///////////////////////////////
+//
+// Bitmaps
+//
+///////////////////////////////
+
+50 BITMAP DISCARDABLE  "BubbleUp2.bmp"
+51 BITMAP DISCARDABLE  "BubbleHover2.bmp"
+
+52 BITMAP DISCARDABLE  "CapsulaUp.bmp"
+53 BITMAP DISCARDABLE  "CapsulaHover.bmp"
+
+54 BITMAP DISCARDABLE  "CopperUp.bmp"
+55 BITMAP DISCARDABLE  "CopperHover.bmp"
+
+56 BITMAP DISCARDABLE  "NeoUp2.bmp"
+57 BITMAP DISCARDABLE  "NeoHover2.bmp"
+
+70 BITMAP DISCARDABLE  "MinUp.bmp"
+71 BITMAP DISCARDABLE  "MinHover.bmp"
+
+72 BITMAP DISCARDABLE  "MaxUp.bmp"
+73 BITMAP DISCARDABLE  "MaxHover.bmp"
+
+74 BITMAP DISCARDABLE  "CloseUp.bmp"
+75 BITMAP DISCARDABLE  "CloseHover.bmp"
+
+//////////////////////////////////////////////////////////////////////////////
+//
+// Sound
+//
+
+60 ATM_SOUND   MOVEABLE PURE   "Hover.Wav"
+61 ATM_SOUND   MOVEABLE PURE   "Clique.Wav"
+
+/////////////////////////////////
+//
+// Strings
+//
+// 1000 to 1999 = German
+// 2000 to 2999 = English
+// 3000 to 3999 = Spanish
+// 4000 to 4999 = French
+// 5000 to 5999 = Italian
+// 6000 to 6999 = Portuguese (Brazilian)
+//
+////////////////////////////////
+
+STRINGTABLE DISCARDABLE
+BEGIN
+// 1000 to 1999 = German
+1000	"OK"
+// 2000 to 2999 = English
+2000	"OK"
+// 3000 to 3999 = Spanish
+3000	"OK"
+// 4000 to 4999 = French
+4000	"OK"
+// 5000 to 5999 = Italian
+5000	"OK"
+// 6000 to 6999 = Portuguese (Brazilian)
+6000	"OK"
+END
